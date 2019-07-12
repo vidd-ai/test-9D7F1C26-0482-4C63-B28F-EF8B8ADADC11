@@ -1,0 +1,13 @@
+{"num_files": 1, "total_segments": 2, "name": "MAJOR CATEGORIES", 
+"children": [
+{"num_segments": 2, "location": "segView.html", 
+"children": [{"name": "seg 0, GOPR20291467058179821high.MP4", "size": 187}, {"name": "seg 1", "size": 173}],
+ "name": "PINK", "size": 348.348},
+{"num_segments": 2, "location": "segView.html", 
+"children": [{"name": "seg 0", "size": 187}, {"name": "seg 1", "size": 173}],
+ "name": "Bathing", "size": 348.348},
+{"num_segments": 2, "location": "segView.html", 
+"children": [{"name": "seg 0", "size": 187}, {"name": "seg 1", "size": 173}],
+ "name": "Swimming pool", "size": 348.348}
+]
+}
