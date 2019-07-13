@@ -1,41 +1,37 @@
 name,count,label
-Pink,2,pink
-Water,2,water
-Play,3,play
-Water resources,1,water_resources
 Vacation,2,vacation
-Snapshot,1,snapshot
 Recreation,2,recreation
+Water resources,1,water_resources
 Fun,2,fun
+Water,2,water
+Pink,2,pink
 Leisure,2,leisure
-Swimming pool,1,swimming_pool
-Water park,1,water_park
+Play,3,play
+Snapshot,1,snapshot
 Smile,1,smile
+Water park,1,water_park
 Child,5,child
-Summer,1,summer
 Toddler,5,toddler
-Atmospheric phenomenon,1,atmospheric_phenomenon
-Mountain range,1,mountain_range
 Morning,1,morning
-Hill station,1,hill_station
-Nature,1,nature
-Cloud,1,cloud
 Atmosphere,1,atmosphere
-Tree,1,tree
-Storm,1,storm
 Sky,1,sky
-Wind,1,wind
+Nature,1,nature
+Atmospheric phenomenon,1,atmospheric_phenomenon
+Hill station,1,hill_station
+Cloud,1,cloud
 Mode of transport,1,mode_of_transport
-Face,4,face
-Baby,3,baby
-Cheek,4,cheek
-Skin,4,skin
-Photograph,3,photograph
-Facial expression,3,facial_expression
-Nose,4,nose
+Wind,1,wind
+Tree,1,tree
+Hair,4,hair
 Head,4,head
 Black,1,black
-Hair,4,hair
+Skin,4,skin
+Facial expression,3,facial_expression
+Cheek,4,cheek
+Face,4,face
+Photograph,3,photograph
+Baby,3,baby
+Nose,4,nose
 Leg,1,leg
 Blond,1,blond
 Mouth,1,mouth
