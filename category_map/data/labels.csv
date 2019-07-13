@@ -1,23 +1,23 @@
 name,count,label
-Pink,2,pink
-Fun,2,fun
 Water,2,water
-Play,1,play
+Fun,2,fun
+Pink,2,pink
 Child,5,child
-Atmospheric phenomenon,1,atmospheric_phenomenon
-Nature,1,nature
-Sky,1,sky
+Play,1,play
 Cloud,1,cloud
-Nose,4,nose
+Nature,1,nature
+Atmospheric phenomenon,1,atmospheric_phenomenon
+Sky,1,sky
 Head,4,head
-Face,4,face
-Black,1,black
-Facial expression,3,facial_expression
 Skin,3,skin
-Photograph,3,photograph
-Cheek,4,cheek
-Toddler,4,toddler
 Baby,3,baby
+Black,1,black
 Hair,4,hair
+Photograph,3,photograph
+Nose,4,nose
+Cheek,4,cheek
+Facial expression,3,facial_expression
+Face,4,face
+Toddler,4,toddler
 Ear,1,ear
 Product,1,product
